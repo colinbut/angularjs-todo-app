@@ -1,2 +1,3 @@
-# angularjs-todo-app
+# AngularJS Todo App
+
 A todo app built in AngularJS
