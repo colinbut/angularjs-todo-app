@@ -1,0 +1,9 @@
+#content {
+  margin-left: 35px;
+  margin-top: 35px;
+}
+
+.done-true {
+  text-decoration: line-through;
+  color: grey;
+}
